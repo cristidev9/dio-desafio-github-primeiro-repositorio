@@ -1,0 +1,11 @@
+Comandos do Git
+
+dir --> listar
+cd --> mudar diretório
+mkdir --> criar diretório
+del / rmir --> deletar diretório
+
+cd/ --> entrar
+cd .. --> voltar
+cls --> limpar tela
+tab --> autocompletar
